@@ -1,0 +1,8 @@
+{
+  "Module": "TargetInfo",
+  "Settings": {
+    "Range": 100,
+    "Background": 0,
+    "Outline": 16711680
+  }
+}

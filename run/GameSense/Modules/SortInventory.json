@@ -1,0 +1,11 @@
+{
+  "Module": "SortInventory",
+  "Settings": {
+    "TickDelay": 0,
+    "ConfirmSort": true,
+    "InstaSort": false,
+    "CloseAfter": false,
+    "InfoMsgs": true,
+    "DebugMode": false
+  }
+}

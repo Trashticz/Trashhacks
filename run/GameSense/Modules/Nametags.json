@@ -1,0 +1,19 @@
+{
+  "Module": "Nametags",
+  "Settings": {
+    "Range": 100,
+    "RenderSelf": false,
+    "Durability": true,
+    "Items": true,
+    "Enchants": true,
+    "ItemName": false,
+    "Gamemode": false,
+    "Health": true,
+    "Ping": false,
+    "TotemPops": true,
+    "EntityId": false,
+    "LevelColor": "Green",
+    "CustomColor": true,
+    "BorderColor": 16711680
+  }
+}

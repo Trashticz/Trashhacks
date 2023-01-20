@@ -1,0 +1,8 @@
+{
+  "Module": "PacketUse",
+  "Settings": {
+    "Food": true,
+    "Potion": true,
+    "All": false
+  }
+}

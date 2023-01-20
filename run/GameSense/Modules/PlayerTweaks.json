@@ -1,0 +1,10 @@
+{
+  "Module": "PlayerTweaks",
+  "Settings": {
+    "GuiMove": false,
+    "NoPush": false,
+    "NoFall": false,
+    "NoSlow": false,
+    "Velocity": false
+  }
+}

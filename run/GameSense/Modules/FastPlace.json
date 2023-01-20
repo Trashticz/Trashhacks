@@ -1,0 +1,9 @@
+{
+  "Module": "FastPlace",
+  "Settings": {
+    "Exp": false,
+    "Crystals": false,
+    "OffhandCrystal": false,
+    "Everything": false
+  }
+}

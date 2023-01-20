@@ -1,0 +1,8 @@
+{
+  "Module": "TargetHUD",
+  "Settings": {
+    "Range": 100,
+    "Outline": 16711680,
+    "Background": 0
+  }
+}

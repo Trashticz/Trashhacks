@@ -1,0 +1,7 @@
+{
+  "Module": "SkyColor",
+  "Settings": {
+    "Fog": true,
+    "Color": 65280
+  }
+}

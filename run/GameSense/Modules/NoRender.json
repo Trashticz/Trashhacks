@@ -1,0 +1,15 @@
+{
+  "Module": "NoRender",
+  "Settings": {
+    "Armor": false,
+    "Fire": false,
+    "Blind": false,
+    "Nausea": false,
+    "HurtCam": false,
+    "Skylight": false,
+    "NoOverlay": false,
+    "NoBossBar": false,
+    "NoCluster": false,
+    "NoClusterMax": 5
+  }
+}

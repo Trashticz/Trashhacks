@@ -1,0 +1,9 @@
+{
+  "Module": "Step",
+  "Settings": {
+    "Height": 2.5,
+    "Timer": false,
+    "Reverse": false,
+    "Modes": "Normal"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Module": "KillAura",
+  "Settings": {
+    "Players": true,
+    "Monsters": false,
+    "Animals": false,
+    "Itemused": "Sword",
+    "EnemyPriority": "Closest",
+    "PrioritiseSword": true,
+    "ACCheck": false,
+    "Criticals": true,
+    "Rotation": true,
+    "Switch": false,
+    "MinSwitchHealth": 0.0,
+    "Range": 5.0
+  }
+}

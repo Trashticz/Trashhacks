@@ -1,0 +1,7 @@
+{
+  "Module": "AutoRespawn",
+  "Settings": {
+    "RespawnMessage": false,
+    "MsgDelay(ms)": 0
+  }
+}

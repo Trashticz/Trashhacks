@@ -1,0 +1,11 @@
+{
+  "Module": "Tracers",
+  "Settings": {
+    "Distance": 100,
+    "DrawTo": "Feet",
+    "ColorSync": true,
+    "NearColor": 16711680,
+    "MiddleColor": 16776960,
+    "FarColor": 65280
+  }
+}

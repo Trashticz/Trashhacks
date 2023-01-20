@@ -1,0 +1,17 @@
+{
+  "Module": "HoleESP",
+  "Settings": {
+    "Range": 5,
+    "Show": "Single",
+    "Render": "Both",
+    "Mode": "Air",
+    "HideOwn": false,
+    "FlatOwn": false,
+    "SlabHeight": 0.5,
+    "Width": 1,
+    "BedrockColor": 65280,
+    "ObsidianColor": 16711680,
+    "CustomColor": 255,
+    "UFOAlpha": 255
+  }
+}

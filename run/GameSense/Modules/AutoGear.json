@@ -1,0 +1,12 @@
+{
+  "Module": "AutoGear",
+  "Settings": {
+    "TickDelay": 0,
+    "EnderChest": false,
+    "ConfirmSort": true,
+    "Invasive": false,
+    "CloseAfter": false,
+    "InfoMsgs": true,
+    "DebugMode": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Module": "LogoutSpots",
+  "Settings": {
+    "Range": 100,
+    "ChatMsgs": true,
+    "Nametag": true,
+    "Width": 1,
+    "Render": "Both",
+    "Color": 16711680
+  }
+}

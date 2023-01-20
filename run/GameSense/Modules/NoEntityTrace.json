@@ -1,0 +1,10 @@
+{
+  "Module": "NoEntityTrace",
+  "Settings": {
+    "Pickaxe": true,
+    "Obsidian": false,
+    "EnderChest": false,
+    "Blocks": false,
+    "All": false
+  }
+}

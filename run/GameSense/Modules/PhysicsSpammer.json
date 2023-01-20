@@ -1,0 +1,7 @@
+{
+  "Module": "PhysicsSpammer",
+  "Settings": {
+    "MinDelay": 5,
+    "MaxDelay": 5
+  }
+}

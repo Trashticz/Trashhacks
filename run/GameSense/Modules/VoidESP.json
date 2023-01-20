@@ -1,0 +1,11 @@
+{
+  "Module": "VoidESP",
+  "Settings": {
+    "Distance": 10,
+    "ActivateY": 20,
+    "Render": "Both",
+    "Mode": "Flat",
+    "Width": 1,
+    "Color": 16776960
+  }
+}

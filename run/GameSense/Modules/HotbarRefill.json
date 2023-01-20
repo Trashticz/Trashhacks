@@ -1,0 +1,7 @@
+{
+  "Module": "HotbarRefill",
+  "Settings": {
+    "Threshold": 32,
+    "TickDelay": 2
+  }
+}

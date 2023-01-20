@@ -1,0 +1,14 @@
+{
+  "Module": "Surround",
+  "Settings": {
+    "Jump": "Continue",
+    "Pattern": "Normal",
+    "TickDelay": 3,
+    "BlocksPerTick": 4,
+    "Rotate": true,
+    "CenterPlayer": false,
+    "SneakOnly": false,
+    "DisableNoObby": true,
+    "OffhandObby": false
+  }
+}

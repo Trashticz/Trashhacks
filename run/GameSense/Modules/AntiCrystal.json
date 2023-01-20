@@ -1,0 +1,19 @@
+{
+  "Module": "AntiCrystal",
+  "Settings": {
+    "RangePlace": 5.9,
+    "EnemyRange": 12.0,
+    "DamageMin": 4.0,
+    "BiasDamage": 1.0,
+    "BlockPlace": "String",
+    "TickDelay": 5,
+    "BlocksPerTick": 4,
+    "OffHandMode": true,
+    "Rotate": false,
+    "OnlyIfEnemy": true,
+    "NonAbusive": true,
+    "DamageCheck": true,
+    "SwitchBack": true,
+    "IgnoreAutoCrystal": true
+  }
+}

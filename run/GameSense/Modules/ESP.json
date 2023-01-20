@@ -1,0 +1,14 @@
+{
+  "Module": "ESP",
+  "Settings": {
+    "Color": 5935600,
+    "Range": 100,
+    "LineWidth": 2,
+    "Player": "Box",
+    "Mob": "Box",
+    "Entity": false,
+    "Item": true,
+    "Container": false,
+    "GlowCrystal": false
+  }
+}

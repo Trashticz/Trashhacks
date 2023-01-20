@@ -1,0 +1,9 @@
+{
+  "Module": "Speed",
+  "Settings": {
+    "Mode": "Strafe",
+    "YPortSpeed": 0.06,
+    "JumpSpeed": 0.41,
+    "TimerSpeed": 1.15
+  }
+}

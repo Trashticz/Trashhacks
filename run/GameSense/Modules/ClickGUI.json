@@ -1,0 +1,16 @@
+{
+  "Module": "ClickGUI",
+  "Settings": {
+    "Opacity": 150,
+    "ScrollSpeed": 10,
+    "Outline": 16711680,
+    "Enabled": 16711680,
+    "Background": 0,
+    "Setting": 1973790,
+    "Font": 16777215,
+    "AnimationSpeed": 200,
+    "Scrolling": "Screen",
+    "ShowHUDPanels": false,
+    "Skin": "2.2"
+  }
+}

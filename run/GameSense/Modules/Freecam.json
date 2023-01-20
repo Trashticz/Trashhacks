@@ -1,0 +1,7 @@
+{
+  "Module": "Freecam",
+  "Settings": {
+    "CancelPackets": true,
+    "Speed": 10.0
+  }
+}

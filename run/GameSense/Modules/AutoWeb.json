@@ -1,0 +1,13 @@
+{
+  "Module": "AutoWeb",
+  "Settings": {
+    "Pattern": "Single",
+    "Target": "Nearest",
+    "Range": 4,
+    "TickDelay": 3,
+    "BlocksPerTick": 4,
+    "Rotate": true,
+    "SneakOnly": false,
+    "DisableNoWeb": true
+  }
+}

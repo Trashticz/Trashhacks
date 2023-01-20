@@ -1,0 +1,13 @@
+{
+  "Module": "Blocker",
+  "Settings": {
+    "Rotate": true,
+    "Anvil": true,
+    "OffHandObby": true,
+    "Piston": true,
+    "ShiftAntiFacePlace": true,
+    "BlocksPerTick": 4,
+    "BlockPlace": "String",
+    "TickDelay": 5
+  }
+}

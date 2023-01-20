@@ -1,0 +1,30 @@
+{
+  "Module": "CevBreaker",
+  "Settings": {
+    "Target": "Nearest",
+    "BreakCrystal": "Packet",
+    "BreakBlock": "Packet",
+    "Range": 4.9,
+    "PreRotationDelay": 0,
+    "AfterRotationDelay": 0,
+    "SupportDelay": 1,
+    "CrystalDelay": 2,
+    "BlocksPerTick": 4,
+    "HitDelay": 2,
+    "MidHitDelay": 1,
+    "EndDelay": 1,
+    "PickSwitchTick": 100,
+    "Rotate": false,
+    "NoGlitchBreak": true,
+    "NoGlitchPlace": true,
+    "AntiWeakness": false,
+    "SwitchSword": false,
+    "FastPlace": false,
+    "FastBreak": true,
+    "TrapPlayer": false,
+    "AntiStep": false,
+    "PlaceCrystal": true,
+    "ForceRotation": false,
+    "ForceBreaker": false
+  }
+}

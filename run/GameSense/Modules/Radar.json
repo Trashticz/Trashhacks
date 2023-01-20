@@ -1,0 +1,10 @@
+{
+  "Module": "Radar",
+  "Settings": {
+    "Player": true,
+    "Mobs": true,
+    "PlayerColor": 255,
+    "OutlineColor": 16711680,
+    "FillColor": 0
+  }
+}

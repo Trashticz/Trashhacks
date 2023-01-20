@@ -1,0 +1,9 @@
+{
+  "Module": "BlockHighlight",
+  "Settings": {
+    "Render": "Block",
+    "Type": "Outline",
+    "Width": 1,
+    "Color": 16711680
+  }
+}

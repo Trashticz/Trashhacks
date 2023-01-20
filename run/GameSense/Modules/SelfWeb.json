@@ -1,0 +1,13 @@
+{
+  "Module": "SelfWeb",
+  "Settings": {
+    "Jump": "Continue",
+    "Pattern": "Single",
+    "TickDelay": 3,
+    "BlocksPerTick": 4,
+    "Rotate": true,
+    "CenterPlayer": false,
+    "SneakOnly": false,
+    "DisableNoWeb": true
+  }
+}

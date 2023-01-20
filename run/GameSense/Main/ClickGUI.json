@@ -1,0 +1,109 @@
+{
+  "Panels": {
+    "ArrayList": {
+      "PosX": 0,
+      "PosY": 200,
+      "State": false
+    },
+    "CombatInfo": {
+      "PosX": 0,
+      "PosY": 150,
+      "State": false
+    },
+    "Coordinates": {
+      "PosX": 0,
+      "PosY": 0,
+      "State": false
+    },
+    "InventoryViewer": {
+      "PosX": 394,
+      "PosY": 43,
+      "State": false
+    },
+    "Notifications": {
+      "PosX": 0,
+      "PosY": 50,
+      "State": false
+    },
+    "PotionEffects": {
+      "PosX": 0,
+      "PosY": 300,
+      "State": false
+    },
+    "Radar": {
+      "PosX": 0,
+      "PosY": 200,
+      "State": false
+    },
+    "Speedometer": {
+      "PosX": 0,
+      "PosY": 70,
+      "State": false
+    },
+    "TabGUI": {
+      "PosX": 213,
+      "PosY": 90,
+      "State": false
+    },
+    "TargetHUD": {
+      "PosX": 0,
+      "PosY": 70,
+      "State": false
+    },
+    "TargetInfo": {
+      "PosX": 0,
+      "PosY": 150,
+      "State": false
+    },
+    "TextRadar": {
+      "PosX": 0,
+      "PosY": 50,
+      "State": true
+    },
+    "Watermark": {
+      "PosX": 0,
+      "PosY": 0,
+      "State": false
+    },
+    "Welcomer": {
+      "PosX": 450,
+      "PosY": 0,
+      "State": false
+    },
+    "Combat": {
+      "PosX": 10,
+      "PosY": 20,
+      "State": true
+    },
+    "Exploits": {
+      "PosX": 120,
+      "PosY": 20,
+      "State": true
+    },
+    "Movement": {
+      "PosX": 230,
+      "PosY": 20,
+      "State": true
+    },
+    "Misc": {
+      "PosX": 340,
+      "PosY": 20,
+      "State": true
+    },
+    "Render": {
+      "PosX": 450,
+      "PosY": 20,
+      "State": true
+    },
+    "HUD": {
+      "PosX": 560,
+      "PosY": 20,
+      "State": true
+    },
+    "GUI": {
+      "PosX": 670,
+      "PosY": 20,
+      "State": true
+    }
+  }
+}

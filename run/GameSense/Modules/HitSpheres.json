@@ -1,0 +1,9 @@
+{
+  "Module": "HitSpheres",
+  "Settings": {
+    "Range": 100,
+    "LineWidth": 2.0,
+    "Slices": 20,
+    "Stacks": 15
+  }
+}

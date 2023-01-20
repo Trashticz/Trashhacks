@@ -1,0 +1,21 @@
+{
+  "Module": "CityESP",
+  "Settings": {
+    "Range": 20,
+    "Down": 1,
+    "Sides": 1,
+    "Depth": 3,
+    "MinDamage": 5.0,
+    "MaxSelfDamage": 7.0,
+    "IgnoreCrystals": true,
+    "ShiftMine": false,
+    "SwitchPick": true,
+    "DistanceMine": 5.0,
+    "MineMode": "Packet",
+    "Target": "Single",
+    "Select": "Closest",
+    "Render": "Both",
+    "Width": 1,
+    "Color": 6697881
+  }
+}

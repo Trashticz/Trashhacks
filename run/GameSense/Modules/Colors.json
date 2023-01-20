@@ -1,0 +1,12 @@
+{
+  "Module": "Colors",
+  "Settings": {
+    "CustomFont": true,
+    "CustomText": false,
+    "FriendColor": "Dark Gray",
+    "EnemyColor": "Red",
+    "MsgEnbl": "Green",
+    "MsgDsbl": "Red",
+    "ColorModel": "HSB"
+  }
+}

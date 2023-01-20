@@ -1,0 +1,26 @@
+{
+  "Module": "FastBreak",
+  "Settings": {
+    "Mode": "Packet",
+    "StartDamage": 0.1,
+    "EndDamage": 0.9,
+    "Haste": false,
+    "SwitchPick": false,
+    "SwitchBack": true,
+    "Spammer": false,
+    "IgnoreChecks": false,
+    "OnlyOnPick": false,
+    "StartPick": false,
+    "TickResetDestroy": 0,
+    "PickSwitchDestroy": 75,
+    "PickSwitchStill": 20,
+    "SpammerDelay": 0,
+    "BreakerDelay": 0,
+    "ForceRotation": false,
+    "RangeDisableBreaker": 15,
+    "Display": false,
+    "BlockColor": 6697881,
+    "Render": "Both",
+    "Width": 1
+  }
+}

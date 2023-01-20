@@ -1,0 +1,11 @@
+{
+  "Module": "RenderTweaks",
+  "Settings": {
+    "ViewClip": false,
+    "NekoAnimation": false,
+    "LowOffhand": false,
+    "OffhandHeight": 1.0,
+    "FOV": false,
+    "FOVSlider": 90
+  }
+}

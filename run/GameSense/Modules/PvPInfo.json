@@ -1,0 +1,12 @@
+{
+  "Module": "PvPInfo",
+  "Settings": {
+    "VisualRange": false,
+    "PearlAlert": false,
+    "BurrowAlert": false,
+    "StrengthDetect": false,
+    "WeaknessDetect": false,
+    "PopCounter": false,
+    "Color": "Light Purple"
+  }
+}

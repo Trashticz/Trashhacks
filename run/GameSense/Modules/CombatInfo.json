@@ -1,0 +1,8 @@
+{
+  "Module": "CombatInfo",
+  "Settings": {
+    "Type": "Hoosiers",
+    "On": 65280,
+    "Off": 16711680
+  }
+}

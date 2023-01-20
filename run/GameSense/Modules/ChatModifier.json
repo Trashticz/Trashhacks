@@ -1,0 +1,12 @@
+{
+  "Module": "ChatModifier",
+  "Settings": {
+    "ClearChat": false,
+    "GreenText": false,
+    "ChatTimeStamps": false,
+    "Format": "H24:mm",
+    "Deco": "[ ]",
+    "Color": "gray",
+    "Space": false
+  }
+}

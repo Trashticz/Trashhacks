@@ -1,0 +1,14 @@
+{
+  "Module": "Announcer",
+  "Settings": {
+    "ClientSide": false,
+    "Walk": true,
+    "Place": true,
+    "Jump": true,
+    "Breaking": true,
+    "Attack": true,
+    "Eat": true,
+    "GUI": true,
+    "Delay": 1
+  }
+}

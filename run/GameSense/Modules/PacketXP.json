@@ -1,0 +1,11 @@
+{
+  "Module": "PacketXP",
+  "Settings": {
+    "SneakOnly": true,
+    "NoCollision": true,
+    "SilentSwitch": true,
+    "MinDamage": 50,
+    "RepairTo": 90,
+    "Predict": false
+  }
+}

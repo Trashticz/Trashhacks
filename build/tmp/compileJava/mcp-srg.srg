@@ -1,0 +1,18 @@
+FD: com/gamesense/mixin/mixins/MixinEntityPlayerSP/connection com/gamesense/mixin/mixins/MixinEntityPlayerSP/field_71174_a
+FD: com/gamesense/mixin/mixins/MixinEntityPlayerSP/mc com/gamesense/mixin/mixins/MixinEntityPlayerSP/field_71159_c
+FD: com/gamesense/mixin/mixins/MixinEntityPlayerSP/prevOnGround com/gamesense/mixin/mixins/MixinEntityPlayerSP/field_184841_cd
+FD: com/gamesense/mixin/mixins/MixinEntityPlayerSP/lastReportedYaw com/gamesense/mixin/mixins/MixinEntityPlayerSP/field_175164_bL
+FD: com/gamesense/mixin/mixins/MixinEntityPlayerSP/lastReportedPitch com/gamesense/mixin/mixins/MixinEntityPlayerSP/field_175165_bM
+FD: com/gamesense/mixin/mixins/MixinEntityPlayerSP/positionUpdateTicks com/gamesense/mixin/mixins/MixinEntityPlayerSP/field_175168_bP
+FD: com/gamesense/mixin/mixins/MixinEntityPlayerSP/lastReportedPosX com/gamesense/mixin/mixins/MixinEntityPlayerSP/field_175172_bI
+FD: com/gamesense/mixin/mixins/MixinEntityPlayerSP/lastReportedPosY com/gamesense/mixin/mixins/MixinEntityPlayerSP/field_175166_bJ
+FD: com/gamesense/mixin/mixins/MixinEntityPlayerSP/lastReportedPosZ com/gamesense/mixin/mixins/MixinEntityPlayerSP/field_175167_bK
+FD: com/gamesense/mixin/mixins/MixinEntityPlayerSP/autoJumpEnabled com/gamesense/mixin/mixins/MixinEntityPlayerSP/field_189811_cr
+FD: com/gamesense/mixin/mixins/MixinEntityPlayerSP/serverSprintState com/gamesense/mixin/mixins/MixinEntityPlayerSP/field_175171_bO
+FD: com/gamesense/mixin/mixins/MixinEntityPlayerSP/serverSneakState com/gamesense/mixin/mixins/MixinEntityPlayerSP/field_175170_bN
+FD: com/gamesense/mixin/mixins/MixinMinecraft/player com/gamesense/mixin/mixins/MixinMinecraft/field_71439_g
+FD: com/gamesense/mixin/mixins/MixinMinecraft/playerController com/gamesense/mixin/mixins/MixinMinecraft/field_71442_b
+MD: com/gamesense/mixin/mixins/MixinAbstractClientPlayer/getPlayerInfo ()Lnet/minecraft/client/network/NetworkPlayerInfo; com/gamesense/mixin/mixins/MixinAbstractClientPlayer/func_175155_b ()Lnet/minecraft/client/network/NetworkPlayerInfo;
+MD: com/gamesense/mixin/mixins/MixinEntityPlayer/getName ()Ljava/lang/String; com/gamesense/mixin/mixins/MixinEntityPlayer/func_70005_c_ ()Ljava/lang/String;
+MD: com/gamesense/mixin/mixins/MixinEntityPlayerSP/isCurrentViewEntity ()Z com/gamesense/mixin/mixins/MixinEntityPlayerSP/func_175160_A ()Z
+MD: com/gamesense/mixin/mixins/MixinPlayerControllerMP/syncCurrentPlayItem ()V com/gamesense/mixin/mixins/MixinPlayerControllerMP/func_78750_j ()V

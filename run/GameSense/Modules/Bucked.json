@@ -1,0 +1,13 @@
+{
+  "Module": "Bucked",
+  "Settings": {
+    "Range": 100,
+    "Self": false,
+    "Friend": true,
+    "OnlyEnemies": false,
+    "Height": "Single",
+    "Render": "Both",
+    "LineWidth": 2,
+    "Color": 65280
+  }
+}

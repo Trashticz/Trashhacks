@@ -1,0 +1,14 @@
+{
+  "Module": "AutoTrap",
+  "Settings": {
+    "Pattern": "Normal",
+    "Target": "Nearest",
+    "Range": 4,
+    "TickDelay": 3,
+    "BlocksPerTick": 4,
+    "Rotate": true,
+    "SneakOnly": false,
+    "DisableNoObby": true,
+    "OffhandObby": false
+  }
+}

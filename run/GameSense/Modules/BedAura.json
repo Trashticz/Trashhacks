@@ -1,0 +1,16 @@
+{
+  "Module": "BedAura",
+  "Settings": {
+    "Mode": "Own",
+    "AttackRange": 4.0,
+    "BreakDelay": 1,
+    "PlaceDelay": 1,
+    "TargetRange": 7.0,
+    "Rotate": true,
+    "DisableNoBed": false,
+    "Switch": true,
+    "AntiSuicide": false,
+    "SuicideHealth": 14,
+    "MinDamage": 5
+  }
+}

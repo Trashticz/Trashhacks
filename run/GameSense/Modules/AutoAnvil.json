@@ -1,0 +1,19 @@
+{
+  "Module": "AutoAnvil",
+  "Settings": {
+    "Mode": "Pick",
+    "Target": "Nearest",
+    "AnvilPlace": "Single",
+    "AntiCrystal": false,
+    "FastAnvil": true,
+    "OffHandObby": false,
+    "Rotate": true,
+    "Range": 5.9,
+    "Decrease": 2.0,
+    "TickDelay": 5,
+    "BlocksPerTick": 4,
+    "HDistance": 7,
+    "MinH": 3,
+    "FailStop": 2
+  }
+}

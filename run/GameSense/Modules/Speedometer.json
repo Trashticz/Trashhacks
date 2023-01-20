@@ -1,0 +1,8 @@
+{
+  "Module": "Speedometer",
+  "Settings": {
+    "Unit": "km/h",
+    "AverageSpeed": true,
+    "AverageTime": 20
+  }
+}

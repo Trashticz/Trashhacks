@@ -1,0 +1,9 @@
+{
+  "Module": "TextRadar",
+  "Settings": {
+    "Display": "All",
+    "SortUp": false,
+    "SortRight": false,
+    "Range": 100
+  }
+}

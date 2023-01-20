@@ -1,0 +1,10 @@
+{
+  "Module": "BreakESP",
+  "Settings": {
+    "Render": "Both",
+    "Width": 1,
+    "Range": 100,
+    "NoAnimation": true,
+    "Color": 65280
+  }
+}

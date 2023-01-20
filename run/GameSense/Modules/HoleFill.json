@@ -1,0 +1,16 @@
+{
+  "Module": "HoleFill",
+  "Settings": {
+    "Type": "Obby",
+    "Delay": 2,
+    "RetryDelay": 10,
+    "BlockpreCycle": 2,
+    "Range": 4.0,
+    "PlayerRange": 3.0,
+    "OnlyPlayer": false,
+    "Rotate": true,
+    "Switch": true,
+    "OffHandObby": false,
+    "DisableonFinish": true
+  }
+}

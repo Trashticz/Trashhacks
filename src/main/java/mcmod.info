@@ -1,0 +1,12 @@
+[{
+  "modid": "trashhacks",
+  "name": "TrashHacks",
+  "description": "Best utility/pvp mod",
+  "version": "v0.1",
+  "mcversion": "1.12.2",
+  "logoFile": "assets/gamesense/gamesense.png",
+  "url": "https://cutt.ly/J9em4dY",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["Trashticz"],
+  "credits": "Trashticz is awesome dev"
+}]

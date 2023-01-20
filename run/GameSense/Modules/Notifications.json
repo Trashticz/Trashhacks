@@ -1,0 +1,8 @@
+{
+  "Module": "Notifications",
+  "Settings": {
+    "SortUp": false,
+    "SortRight": false,
+    "NoChatMsg": true
+  }
+}

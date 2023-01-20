@@ -1,0 +1,7 @@
+{
+  "Module": "Anchor",
+  "Settings": {
+    "GuaranteeHole": true,
+    "ActivateHeight": 2
+  }
+}

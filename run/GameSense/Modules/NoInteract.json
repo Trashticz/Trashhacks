@@ -1,0 +1,6 @@
+{
+  "Module": "NoInteract",
+  "Settings": {
+    "ContainerOnly": false
+  }
+}

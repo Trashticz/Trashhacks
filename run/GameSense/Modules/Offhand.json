@@ -1,0 +1,28 @@
+{
+  "Module": "Offhand",
+  "Settings": {
+    "Default": "Totem",
+    "NonDefault": "Crystal",
+    "NoPlayer": "Gapple",
+    "Potion": "first",
+    "HealthSwitch": 14,
+    "TickDelay": 0,
+    "FallDistance": true,
+    "MaxSwitch": 6,
+    "BiasDamage": 1.0,
+    "PlayerDistance": 0.0,
+    "PickObby": false,
+    "PickObbyOnShift": false,
+    "CrystShiftObby": false,
+    "RightClickGap": false,
+    "ShiftPot": false,
+    "OnlySword": true,
+    "SwordCrystal": false,
+    "PickCrystal": false,
+    "CrystalCheck": false,
+    "NoHotBar": false,
+    "OnlyHotBar": false,
+    "AntiWeakness": false,
+    "HotBarTotem": false
+  }
+}

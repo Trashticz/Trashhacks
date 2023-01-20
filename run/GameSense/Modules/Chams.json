@@ -1,0 +1,16 @@
+{
+  "Module": "Chams",
+  "Settings": {
+    "Type": "Texture",
+    "Range": 100,
+    "Player": true,
+    "Mob": false,
+    "Crystal": false,
+    "LineWidth": 1,
+    "ColorOpacity": 100,
+    "WireOpacity": 200,
+    "PlayerColor": 65535,
+    "MobColor": 16776960,
+    "CrystalColor": 65280
+  }
+}

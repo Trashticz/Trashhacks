@@ -1,0 +1,8 @@
+{
+  "Module": "NoKick",
+  "Settings": {
+    "Packet": true,
+    "Slime": false,
+    "Offhand": false
+  }
+}

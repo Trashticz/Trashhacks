@@ -1,0 +1,19 @@
+{
+  "Module": "AutoSkull",
+  "Settings": {
+    "Rotate": true,
+    "OffHandSkull": false,
+    "OnShift": false,
+    "InstaActive": true,
+    "DisableAfter": true,
+    "ForceRotation": false,
+    "NoUp": false,
+    "OnlyHoles": false,
+    "TickDelay": 5,
+    "PreSwitch": 0,
+    "AfterSwitch": 0,
+    "PlayerDistance": 0.0,
+    "AutoTrap": false,
+    "BlocksPerTick": 4
+  }
+}
